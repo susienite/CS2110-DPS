@@ -12,7 +12,6 @@ import models.Node;
 import models.ReturnStage;
 
 /** This class contains Dijkstra's shortest-path algorithm and some other methods. */
-
 public class Paths {
 
 	/** Return the shortest path from start to end, or the empty list if a path

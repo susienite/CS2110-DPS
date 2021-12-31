@@ -6,7 +6,6 @@ import java.util.*;
 
 import models.Node;
 
-
 /** An instance is a min-heap of distinct values of type V with
  *  priorities of type double. Since it's a min-heap, the value
  *  with the smallest priority is at the root of the heap. */
